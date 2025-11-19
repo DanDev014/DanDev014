@@ -1,11 +1,15 @@
-Developed and executed end-to-end digital marketing strategies to increase brand awareness, audience engagement, and customer bookings.
+<h1 align="center">Hi 👋, I'm Daniel Njeru</h1>
+<h3 align="center">A passionate Data Scientist</h3>
 
-Managed and optimized paid and organic social media campaigns across Facebook, Instagram, TikTok, and YouTube.
+- 🔭 I’m currently working on **Machine Learning**
 
-Implemented SEO and SEM strategies that boosted search visibility, improved rankings, and increased website traffic.
+- 🌱 I’m currently learning **Recommendation systems**
 
-Monitored and analyzed marketing performance metrics to refine targeting, improve ROI, and enhance overall campaign effectiveness.
+- 👯 I’m looking to collaborate on **Machine Learning**
 
-Leveraged insights from Google Analytics, Google Tag Manager, and CRM systems to guide data-driven marketing decisions.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Designed and introduced new content formats and engagement campaigns tailored specifically for travel-focused audiences.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
