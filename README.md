@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Anomaly Detection**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/daniel-njeru-devdan/ </h3>
 <p align="left">
 </p>
 
