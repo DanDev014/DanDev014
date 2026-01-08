@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Njeru</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Scientist/ML Engineer</h3>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Unsupervised Learning**
 
-- 🌱 I’m currently learning **Recommendation systems**
+- 🌱 I’m currently learning **Clustering and Anomaly Detection**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on Anomaly Detection****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
