@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Clustering and Anomaly Detection**
 
-- 👯 I’m looking to collaborate on Anomaly Detection****
+- 👯 I’m looking to collaborate on **Anomaly Detection**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
