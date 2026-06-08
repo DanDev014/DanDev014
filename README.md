@@ -85,8 +85,10 @@ Currently, I am pursuing a Master of Science in Data Science, further strengthen
 * Containerization & Microservices
 
 
-<h2 align="left">Contact</h2>
+<h2 align="left">Connect With Me</h2>
 
-LinkedIn: https://www.linkedin.com/in/daniel-njeru-devdan/
-Email: danofficial014@gmail.com
-Portfolio:
+* 📧 Email: [your.email@example.com](mailto:danofficial014@gmail.com)
+* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/daniel-njeru-devdan/)
+* 🌐 Portfolio: https://your-portfolio.com
+
+Open to opportunities in Data Science, Analytics, Machine Learning, and Data Engineering.
