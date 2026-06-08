@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Daniel Njeru</h1>
 
-<h2 align="center">Data Scientist/ML Engineer/Data Engineer</h2>
+<h1 align="center">Data Scientist/ML Engineer</h1>
 
 <h2 align="left">Personal Profile</h2>
 
