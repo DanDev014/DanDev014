@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I am Daniel Njeru</h1>
+
 <h2 align="center">Data Scientist/ML Engineer/Data Engineer</h2>
 
-<h2 align="center">Personal Profile</h2>
+<h2 align="left">Personal Profile</h2>
 
 I am a results-oriented data scientist with a strong foundation in Python, SQL, Excel, and Tableau. My expertise lies in converting raw data into strategic insights through data analysis, visualization, and performance measurement. I have designed interactive dashboards, uncovered trends through exploratory analysis, and ensured the accuracy of critical business metrics. My work encompasses a wide range of projects involving both structured and unstructured data, enabling organizations to make informed and impactful decisions.
 
 Currently, I am pursuing a Master of Science in Data Science, further strengthening my expertise in analytics and machine learning. My interests lie in using data to drive strategic business decisions, optimize operations, and deliver actionable insights that create measurable value. I am also expanding my skills in data engineering, with a focus on building scalable and reliable data systems that support advanced analytics.
+<h2 align="left">Personal Profile</h2>
 
-
-- 🔭 I’m currently working on **Unsupervised Learning**
-
-- 🌱 I’m currently learning **Clustering and Anomaly Detection**
-
-- 👯 I’m looking to collaborate on **Anomaly Detection**
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/daniel-njeru-devdan/ </h3>
 <p align="left">
