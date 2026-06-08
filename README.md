@@ -12,61 +12,81 @@ Currently, I am pursuing a Master of Science in Data Science, further strengthen
 
 ### Programming & Data Analysis
 
-* Python (Pandas, NumPy, Scikit-learn)
-* SQL (Joins, CTEs, Window Functions, Aggregations)
-* Excel / Google Sheets
-* Exploratory Data Analysis (EDA)
+* Python
+* SQL
+* Excel
 * Statistical Analysis
+* Exploratory Data Analysis (EDA)
+* Data Cleaning & Transformation
+* Experimental Design & Hypothesis Testing
 
 ### Machine Learning & AI
 
 * Supervised & Unsupervised Learning
 * Feature Engineering
+* Predictive Modeling
 * Model Evaluation & Validation
-* Predictive Analytics
-* Sentiment Analysis
+* Deep Learning
+* Generative AI & Large Language Models (LLMs)
 
 ### Natural Language Processing (NLP)
 
-* NLTK, spaCy
-* Text Preprocessing & Cleaning
+* Text Analytics
+* Information Extraction
 * Named Entity Recognition (NER)
 * Topic Modeling
+* Sentiment Analysis
 * Text Classification
-* Text Similarity Analysis
+* Retrieval-Augmented Generation (RAG)
 
 ### Data Visualization & Business Intelligence
 
-* Tableau
-* Power BI
-* Streamlit
-* Matplotlib & Seaborn
 * Dashboard Development
-* KPI Reporting & Data Storytelling
+* KPI & Performance Monitoring
+* Data Storytelling
+* Executive Reporting
+* Business Intelligence
+* Interactive Data Visualization
 
 ### Data Engineering & Big Data
 
+* ETL/ELT Pipeline Development
+* Data Architecture & Modeling
+* Batch & Stream Processing
 * Apache Kafka
 * Apache Spark
-* ETL/ELT Pipelines
-* Data Ingestion & Processing
-* Data Modeling
+* Workflow Orchestration
+* Data Warehousing
 
-### Databases & Tools
+### Databases & Cloud Technologies
 
-* PostgreSQL
-* MySQL
-* Git & GitHub
-* Jupyter Notebook
-* Linux/Bash
+* Relational Databases
+* NoSQL Databases
+* Data Lakes & Lakehouses
+* Cloud Data Platforms
+* Data Governance
+* Data Security & Access Control
 
 ### Business Analytics
 
-* Customer Segmentation
-* Churn Analysis
-* Trend Analysis & Forecasting
+* Customer Analytics
+* Churn Prediction
+* Forecasting & Time Series Analysis
 * Commercial Insight Generation
-* Business Performance Analysis
+* Decision Intelligence
+* Business Performance Optimization
+
+### Software Engineering & MLOps
+
+* Git & Version Control
+* CI/CD for Data Applications
+* Model Deployment
+* MLOps
+* API Development & Integration
+* Containerization & Microservices
+
+
+
 
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/daniel-njeru-devdan/ </h3>
