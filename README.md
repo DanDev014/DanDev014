@@ -8,8 +8,6 @@ I am a results-oriented data scientist with a strong foundation in Python, SQL, 
 
 Currently, I am pursuing a Master of Science in Data Science, further strengthening my expertise in analytics and machine learning. My interests lie in using data to drive strategic business decisions, optimize operations, and deliver actionable insights that create measurable value. I am also expanding my skills in data engineering, with a focus on building scalable and reliable data systems that support advanced analytics.
 <h2 align="left">Technical Skills</h2>
-## Technical Skills
-
 ### Programming & Data Analysis
 
 * Python
