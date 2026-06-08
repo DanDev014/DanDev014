@@ -7,7 +7,66 @@
 I am a results-oriented data scientist with a strong foundation in Python, SQL, Excel, and Tableau. My expertise lies in converting raw data into strategic insights through data analysis, visualization, and performance measurement. I have designed interactive dashboards, uncovered trends through exploratory analysis, and ensured the accuracy of critical business metrics. My work encompasses a wide range of projects involving both structured and unstructured data, enabling organizations to make informed and impactful decisions.
 
 Currently, I am pursuing a Master of Science in Data Science, further strengthening my expertise in analytics and machine learning. My interests lie in using data to drive strategic business decisions, optimize operations, and deliver actionable insights that create measurable value. I am also expanding my skills in data engineering, with a focus on building scalable and reliable data systems that support advanced analytics.
-<h2 align="left">Personal Profile</h2>
+<h2 align="left">Technical Skills</h2>
+## Technical Skills
+
+### Programming & Data Analysis
+
+* Python (Pandas, NumPy, Scikit-learn)
+* SQL (Joins, CTEs, Window Functions, Aggregations)
+* Excel / Google Sheets
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+
+### Machine Learning & AI
+
+* Supervised & Unsupervised Learning
+* Feature Engineering
+* Model Evaluation & Validation
+* Predictive Analytics
+* Sentiment Analysis
+
+### Natural Language Processing (NLP)
+
+* NLTK, spaCy
+* Text Preprocessing & Cleaning
+* Named Entity Recognition (NER)
+* Topic Modeling
+* Text Classification
+* Text Similarity Analysis
+
+### Data Visualization & Business Intelligence
+
+* Tableau
+* Power BI
+* Streamlit
+* Matplotlib & Seaborn
+* Dashboard Development
+* KPI Reporting & Data Storytelling
+
+### Data Engineering & Big Data
+
+* Apache Kafka
+* Apache Spark
+* ETL/ELT Pipelines
+* Data Ingestion & Processing
+* Data Modeling
+
+### Databases & Tools
+
+* PostgreSQL
+* MySQL
+* Git & GitHub
+* Jupyter Notebook
+* Linux/Bash
+
+### Business Analytics
+
+* Customer Segmentation
+* Churn Analysis
+* Trend Analysis & Forecasting
+* Commercial Insight Generation
+* Business Performance Analysis
 
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/daniel-njeru-devdan/ </h3>
