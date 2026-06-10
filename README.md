@@ -89,6 +89,6 @@ Currently, I am pursuing a Master of Science in Data Science, further strengthen
 
 * 💼 LinkedIn: https://www.linkedin.com/in/daniel-njeru-devdan/
 * 📧 Email: danofficial014@gmail.com
-* 🌐 Portfolio:
+* 🌐 Portfolio: https://dandev014.github.io/
 
 Open to opportunities in Data Science, Analytics, Machine Learning, and Data Engineering.
